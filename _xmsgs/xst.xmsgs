@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="info" file="Xst" num="2679" delta="unknown" >Register &lt;<arg fmt="%s" index="1">cnt</arg>&gt; in unit &lt;<arg fmt="%s" index="2">top</arg>&gt; has a constant value of <arg fmt="%s" index="3">00000000000000000000000000000000</arg> during circuit operation. The register is replaced by logic.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt_cy&lt;0&gt;</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt2</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt4</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt6</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt8</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt10</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt12</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt14</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt16</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt18</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt20</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt22</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt24</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt26</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt28</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt30</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt32</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt34</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt36</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt38</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt40</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt42</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt44</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt46</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt48</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt50</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt52</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt54</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt56</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt58</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt60</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+<msg type="error" file="Xst" num="528" delta="unknown" >Multi-source in Unit &lt;<arg fmt="%s" index="1">top</arg>&gt; on signal &lt;<arg fmt="%s" index="2">Mcount_cnt62</arg>&gt;; this signal is connected to multiple drivers.
+</msg>
+
+</messages>
+

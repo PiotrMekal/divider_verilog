@@ -1,0 +1,73 @@
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+ngdbuild -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s200-ft256-4 "top.ngc" top.ngd
+map -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -p xc3s200-ft256-4 -cm area -pr off -k 4 -c 100 -o top_map.ncd top.ngd top.pcf
+par -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -w -intstyle ise -ol std -t 1 top_map.ncd top.ncd top.pcf
+trce -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -v 3 -s 4 -xml top top.ncd -o top.twr top.pcf -ucf UCF.ucf
+bitgen -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -f top.ut top.ncd
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+ngdbuild -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s200-ft256-4 "top.ngc" top.ngd
+map -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -p xc3s200-ft256-4 -cm area -pr off -k 4 -c 100 -o top_map.ncd top.ngd top.pcf
+par -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -w -intstyle ise -ol std -t 1 top_map.ncd top.ncd top.pcf
+trce -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -v 3 -s 4 -xml top top.ncd -o top.twr top.pcf -ucf UCF.ucf
+bitgen -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -f top.ut top.ncd
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+ngdbuild -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s200-ft256-4 "top.ngc" top.ngd
+map -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -p xc3s200-ft256-4 -cm area -pr off -k 4 -c 100 -o top_map.ncd top.ngd top.pcf
+par -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -w -intstyle ise -ol std -t 1 top_map.ncd top.ncd top.pcf
+trce -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -v 3 -s 4 -xml top top.ncd -o top.twr top.pcf -ucf UCF.ucf
+bitgen -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -f top.ut top.ncd
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+ngdbuild -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s200-ft256-4 "top.ngc" top.ngd
+map -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -p xc3s200-ft256-4 -cm area -pr off -k 4 -c 100 -o top_map.ncd top.ngd top.pcf
+par -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -w -intstyle ise -ol std -t 1 top_map.ncd top.ncd top.pcf
+trce -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -v 3 -s 4 -xml top top.ncd -o top.twr top.pcf -ucf UCF.ucf
+bitgen -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -f top.ut top.ncd
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+ngdbuild -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s200-ft256-4 "top.ngc" top.ngd
+map -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -p xc3s200-ft256-4 -cm area -pr off -k 4 -c 100 -o top_map.ncd top.ngd top.pcf
+par -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -w -intstyle ise -ol std -t 1 top_map.ncd top.ncd top.pcf
+trce -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -v 3 -s 4 -xml top top.ncd -o top.twr top.pcf -ucf UCF.ucf
+bitgen -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -f top.ut top.ncd
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+ngdbuild -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s200-ft256-4 "top.ngc" top.ngd
+map -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -p xc3s200-ft256-4 -cm area -pr off -k 4 -c 100 -o top_map.ncd top.ngd top.pcf
+par -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -w -intstyle ise -ol std -t 1 top_map.ncd top.ncd top.pcf
+trce -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -v 3 -s 4 -xml top top.ncd -o top.twr top.pcf -ucf UCF.ucf
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+ngdbuild -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s200-ft256-4 "top.ngc" top.ngd
+map -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -p xc3s200-ft256-4 -cm area -pr off -k 4 -c 100 -o top_map.ncd top.ngd top.pcf
+par -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -w -intstyle ise -ol std -t 1 top_map.ncd top.ncd top.pcf
+trce -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -v 3 -s 4 -xml top top.ncd -o top.twr top.pcf -ucf UCF.ucf
+bitgen -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -f top.ut top.ncd
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+ngdbuild -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s200-ft256-4 "top.ngc" top.ngd
+map -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -p xc3s200-ft256-4 -cm area -pr off -k 4 -c 100 -o top_map.ncd top.ngd top.pcf
+par -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -w -intstyle ise -ol std -t 1 top_map.ncd top.ncd top.pcf
+trce -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -v 3 -s 4 -xml top top.ncd -o top.twr top.pcf -ucf UCF.ucf
+bitgen -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -f top.ut top.ncd
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"
+ngdbuild -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -dd _ngo  -nt timestamp -i -p xc3s200-ft256-4 "top.ngc" top.ngd
+map -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -p xc3s200-ft256-4 -cm area -pr off -k 4 -c 100 -o top_map.ncd top.ngd top.pcf
+par -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -w -intstyle ise -ol std -t 1 top_map.ncd top.ncd top.pcf
+trce -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -v 3 -s 4 -xml top top.ncd -o top.twr top.pcf -ucf UCF.ucf
+bitgen -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -f top.ut top.ncd
+xst -ise "C:/Designs/Mekal_Tomaszewski/divider/divider.ise" -intstyle ise -ifn "C:/Designs/Mekal_Tomaszewski/divider/top.xst" -ofn "C:/Designs/Mekal_Tomaszewski/divider/top.syr"

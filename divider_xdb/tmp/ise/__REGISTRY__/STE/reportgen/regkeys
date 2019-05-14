@@ -1,0 +1,6 @@
+CommandLine
+C:\Xilinx\10.1\ISE\bin\nt\unwrapped\reportgen.exe -ise C:/Designs/Mekal_Tomaszewski/divider/divider.ise -intstyle ise -clock_regions -o top top.ncd
+s
+FormatString
+reportgen [-intstyle ise|xflow|silent] [-delay] [-clock_regions] [-unrouted_nets] [--dirt] [-pad [-padfmt pad|csv|text|all] [-padcolsort <displaystr>]] [-o <outfile>] <infile[.ncd]> [<constraintsfile[.pcf]>]
+s
